@@ -76,5 +76,3 @@ If parsing fails, no changes are made.
 
 MIT License
 
-* Customize the README for public GitHub release
-* Add badges or screenshots

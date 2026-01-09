@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C64A9B202F1153A100F4B242 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = C64A9B1F2F11539C00F4B242 /* LICENSE */; };
 		C6859B092F09AC5700D5F5C4 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6859B082F09AC5600D5F5C4 /* Cocoa.framework */; };
 		C6859B142F09AC5700D5F5C4 /* JSONFormatterExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = C6859B062F09AC5600D5F5C4 /* JSONFormatterExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		C6859B1A2F09AD5900D5F5C4 /* XcodeKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6859B0A2F09AC5700D5F5C4 /* XcodeKit.framework */; };
@@ -49,6 +50,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C64A9B1F2F11539C00F4B242 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		C6859AF42F09AC1500D5F5C4 /* JSONFormatterHost.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JSONFormatterHost.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6859B062F09AC5600D5F5C4 /* JSONFormatterExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = JSONFormatterExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6859B082F09AC5600D5F5C4 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
@@ -104,6 +106,7 @@
 		C6859AEB2F09AC1500D5F5C4 = {
 			isa = PBXGroup;
 			children = (
+				C64A9B1F2F11539C00F4B242 /* LICENSE */,
 				C6859AF62F09AC1500D5F5C4 /* JSONFormatterHost */,
 				C6859B0C2F09AC5700D5F5C4 /* JSONFormatterExtension */,
 				C6859B072F09AC5600D5F5C4 /* Frameworks */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C64A9B202F1153A100F4B242 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
